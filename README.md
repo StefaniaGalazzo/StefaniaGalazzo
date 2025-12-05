@@ -7,7 +7,7 @@
 <h3 align='center'>Working with: </h3>
 <br>
 <div align="center">
-    <p><span>HTML</span> | <span>CSS</span> | <span>Javascript</span> | <span>Typescript</span> | <span>React.js</span> | <span>Next.js</span> | <span>Remix</span> | <span>React Native</span> | <span>Redux</span> | <span>Styled Components</span> | <span>Tailwind</span> | <span>Bootstrap</span></p> | <span>Three.js</span> | <span>Git</span> | <span>GitHub</span> | <span>JSON</span> | <span>Strapi</span> | <span>SCSS/SASS</span> | <span>Figma</span>
+    <p>| <span>HTML</span> | <span>CSS</span> | <span>Javascript</span> | <span>Typescript</span> | <span>React.js</span> | <span>Next.js</span> | <span>Remix</span> | <span>React Native</span> | <span>Redux</span> | <span>Styled Components</span> | <span>Tailwind</span> | <span>Bootstrap</span></p> | <span>Three.js</span> | <span>Git</span> | <span>GitHub</span> | <span>JSON</span> | <span>Strapi</span> | <span>SCSS/SASS</span> |
 </div>
 <br>
 <hr>
